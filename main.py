@@ -7,7 +7,7 @@ import io
 
 # Set page configuration
 st.set_page_config(
-    page_title="Data Plot & Delta Analysis",
+    page_title="Shankar's Data Plot & Delta Analysis",
     layout="wide",
     initial_sidebar_state="expanded"
 )
